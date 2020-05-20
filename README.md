@@ -48,4 +48,10 @@ out:
 
 ```
 $ ./gradlew gem
+
+```
+
+## Install gem
+```
+$ embulk gem install <pkg/.gemfile>
 ```
